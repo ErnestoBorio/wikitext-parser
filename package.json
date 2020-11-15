@@ -1,0 +1,17 @@
+{
+  "name": "wikitext-parser",
+  "version": "1.0.0",
+  "description": "An ANTLR parser for wiktionary pages content.",
+  "main": "index.js",
+  "dependencies": {
+    "antlr4": "^4.8.0",
+    "jsonfile": "^6.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "node build/build.js",
+    "watch": "node build/watch.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

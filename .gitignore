@@ -1,0 +1,9 @@
+**/node_modules
+/src/.antlr
+/src/wikitextLexer.js
+/src/wikitextParser.js
+/src/wikitextListener.js
+/java
+/notes.md
+**/*.interp
+**/*.tokens
