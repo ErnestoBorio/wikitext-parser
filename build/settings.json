@@ -1,0 +1,6 @@
+{
+	"grammar": "src/wikitext.g4",
+	"srcPath": "src",
+	"jsPath": "src/antlr",
+	"javaPath": "java"
+}

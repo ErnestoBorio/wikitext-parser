@@ -16,12 +16,7 @@ const rebuild = () => {
 // VSCode fires two consecutive change events when hitting save, and we can't efficiently tell them apart, so whatever.
 fs.watch(`${__dirname}/../src/wikitext.g4`, event => {
 	if (event === 'change') {
-		if (currentBuild.proc) {
-			currentBuild.kill(rebuild);
-		}
-		else {
-			rebuild();
-		}
+		currentBuild.kill(rebuild);
 	}
 });
 

@@ -1,8 +1,6 @@
 **/node_modules
 /src/.antlr
-/src/wikitextLexer.js
-/src/wikitextParser.js
-/src/wikitextListener.js
+/src/antlr
 /java
 /notes.md
 **/*.interp

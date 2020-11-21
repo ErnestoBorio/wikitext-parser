@@ -1,4 +1,4 @@
-const { wikitextListener } = require('./wikitextListener');
+const { wikitextListener } = require('./antlr/wikitextListener');
 
 class myListener extends wikitextListener {
     constructor() {

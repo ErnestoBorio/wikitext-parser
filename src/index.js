@@ -16,9 +16,9 @@ if (!pageText) {
 }
 
 const antlr4 = require('antlr4/index');
-const { wikitextLexer } = require('./wikitextLexer');
-const { wikitextParser } = require('./wikitextParser');
-const { myListener } = require('./myListener');
+const { wikitextLexer } = require('./antlr/wikitextLexer');
+const { wikitextParser } = require('./antlr/wikitextParser');
+const { myListener } = require('./antlr/myListener');
 
 var chars = new antlr4.InputStream(pageText);
 var lexer = new wikitextLexer(chars);
