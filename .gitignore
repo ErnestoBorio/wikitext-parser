@@ -2,6 +2,7 @@
 /src/.antlr
 /src/antlr
 /java
+/data
 /notes.md
 **/*.interp
 **/*.tokens

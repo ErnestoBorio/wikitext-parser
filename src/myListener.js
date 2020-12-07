@@ -1,15 +1,13 @@
 const { wikitextListener } = require('./antlr/wikitextListener');
 
-class myListener extends wikitextListener {
-    constructor() {
-        super.constructor();
-    }
+class MyListener extends wikitextListener {
+	// constructor() {
+	// 	super();
+	// }
 
-    enterTitle(ctx) {
-        void (0);
-    }
+	// enterTitle(_ctx) {
+	// }
 
-    exitTitle(ctx) {
-        void (0);
-    }
+	// exitTitle(_ctx) {
+	// }
 }

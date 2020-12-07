@@ -1,7 +1,6 @@
 // TODO: Build JS and Java in two concurrent child processes to take advantage of multiple CPU cores
 
 const { spawn, ChildProcess } = require('child_process');
-const colors = require('colors');
 
 const basePath = `${__dirname}/..`;
 
@@ -13,7 +12,7 @@ javaPath = `${basePath}/${javaPath}`;
 jsPath = `${basePath}/${jsPath}`;
 
 module.exports = function (buildName) {
-	console.log('Build '.blue + buildName + ' started'.blue);
+	console.log(`Build ${buildName} started`);
 	this.jsBuild = spawn(`antlr -Dlanguage=JavaScript -o ${jsPath} ${grammar}`, { cwd: srcPath, shell: true });
 	this.javaBuild = spawn(`antlr -Dlanguage=Java -o ${javaPath} ${grammar} && cd ${javaPath} && javac *.java`, { cwd: srcPath, shell: true });
 
@@ -49,10 +48,10 @@ module.exports = function (buildName) {
 			// Error - NOP
 		}
 		else if (this.jsBuild.signal || this.javaBuild.signal || this.jsBuild.code || this.javaBuild.code) {
-			console.log('Build '.gray + buildName + ' cancelled\n'.gray);
+			console.log(`Build ${buildName} cancelled\n`);
 		}
 		else {
-			console.log('Build '.green + buildName + ' completed\n'.green);
+			console.log(`Build ${buildName} completed\n`);
 		}
 		if (this.callback) {
 			this.callback();

@@ -6,26 +6,35 @@ grammar wikitext;
 
 page: (line EOL)+ EOF;
 
-line: title | template;
+line: title | wikitext | bullet_line;
 
 title: title2 | title3 | title4 | title5;
-title5: '=====' name '=====';
-title4: '====' name '====';
-title3: '===' name '===';
-title2: '==' name '==';
+title5: '=====' text '=====';
+title4: '====' text '====';
+title3: '===' text '===';
+title2: '==' text '==';
+
+wikitext: (SPACE* wikitext_piece SPACE*)+;
+wikitext_piece: template | link | text;
 
 template: '{{' template_name ('|' template_parameter?)* '}}';
+template_name: identifier;
+template_parameter: wikitext;
 
-template_name: name;
+link: '[[' linked_page ('|' link_parameter?)* ']]';
+linked_page: text;
+link_parameter: wikitext;
 
-template_parameter: name;
+bullet_line: BULLET wikitext;
 
-name: COMMON_CHAR+;
+identifier: CHAR+;
+
+text: CHAR+;
 
 /**
  Lexicon
  */
-
 EOL: [\r\n]+;
-COMMON_CHAR: ~[|<>{}];
-CATCH_ALL: .;
+CHAR: .;
+BULLET: ('*' | '#' | '#:' | '#*');
+SPACE: ' ';
