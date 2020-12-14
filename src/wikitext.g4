@@ -4,9 +4,15 @@ grammar wikitext;
  Grammar
  */
 
-page: (line EOL)+ EOF;
+page: wikitem+ EOF;
 
-line: title | wikitext | bullet_line;
+wikitem: 
+	  text
+	| title 
+	| template
+	| link
+	| bullet
+	;
 
 title: title2 | title3 | title4 | title5;
 title5: '=====' text '=====';
@@ -14,27 +20,19 @@ title4: '====' text '====';
 title3: '===' text '===';
 title2: '==' text '==';
 
-wikitext: (SPACE* wikitext_piece SPACE*)+;
-wikitext_piece: template | link | text;
+template: '{{' parameter ('|' parameter?)* '}}';
+link: '[[' parameter ('|' parameter?)* ']]';
 
-template: '{{' template_name ('|' template_parameter?)* '}}';
-template_name: identifier;
-template_parameter: wikitext;
-
-link: '[[' linked_page ('|' link_parameter?)* ']]';
-linked_page: text;
-link_parameter: wikitext;
-
-bullet_line: BULLET wikitext;
-
-identifier: CHAR+;
+parameter: wikitem+;
 
 text: CHAR+;
+
+bullet: ('*'|'#'|'#:'|'#*');
+
 
 /**
  Lexicon
  */
-EOL: [\r\n]+;
+EOL: [\r\n]+ -> skip;
 CHAR: .;
-BULLET: ('*' | '#' | '#:' | '#*');
-SPACE: ' ';
+WS: ' ' -> skip;
