@@ -1,0 +1,527 @@
+{{also|Appendix:Variations of &quot;pie&quot;}}
+==English==
+{{slim-wikipedia|Pie (disambiguation)}}
+[[Image:Lemon Meringue Pie 1.jpg|thumb|Unsliced lemon meringue pie.]]
+
+===Pronunciation===
+* {{a|US|UK}} {{enPR|pī}}, {{IPA|en|/paɪ/}}
+* {{audio|en|en-us-pie.ogg|Audio (US)}}
+* {{audio|en|en-au-pie.ogg|Audio (AU)}}
+* {{homophones|en|pi|π}}
+* {{rhymes|en|aɪ}}
+
+===Etymology 1===
+From {{inh|en|enm|pye}}, {{m|enm|pie}}, probably from {{bor|en|la|pīca||magpie, jay}} (from the idea of the many ingredients put into pies likened to the tendency of magpies to bring a variety of objects back to their nests).
+
+====Noun====
+{{en-noun|~}}
+
+# A type of [[pastry]] that consists of an outer crust and a [[filling]].
+#: {{ux|en|The family had steak and kidney '''pie''' for dinner and cherry '''pie''' for dessert.}}
+# Any of various other, non-pastry dishes that maintain the general concept of a shell with a filling.
+#: {{ux|en|Shepherd's '''pie''' is made of mince covered with mashed potato.}}
+# {{lb|en|Northeastern US}} [[pizza|Pizza]].
+# {{lb|en|figuratively}} The [[whole]] of a wealth or [[resource]], to be divided in parts.
+#* {{quote-journal|en|passage=It is easier to get along when everyone, more or less, is getting ahead. But when the '''pie''' is shrinking, social groups are more likely to turn on each other.|author=[[w:Evan Thomas|Evan Thomas]]|url=http://www.newsweek.com/2010/12/04/the-deepest-dangers-facing-the-united-states.html|date=2010-12-04|title=Why It’s Time to Worry|work=Newsweek}}
+# {{lb|en|letterpress}} A disorderly mess of spilt [[type]].
+# {{lb|en|cricket}} An especially badly [[bowl]]ed ball.
+# {{lb|en|pejorative}} a [[gluttonous]] person.
+# A [[pie chart]].
+#* {{quote-book|en|year=1986|author=Carolyn Sorensen, Henry J. Stock|title=Department of Education Computer Graphics Guide|page=8|passage='''Pies''' are best for comparing the components of only one or two totals.}}
+# {{lb|en|slang}} The [[vulva]].
+#* {{quote-book|en|year=1981|author=William Kotzwinkle|title=Jack in the Box|passage=&quot;Yeah, take it off!&quot; &quot;SHOW US YOUR '''PIE'''!&quot; The brunette opened the catch on her G-string and let the sequinned cloth slip down, teasing them with it.}}
+#* {{quote-book|en|year=2010|author=W. A. Moltinghorne|title=Magnolia Park|page=238|passage=Yeah, some guys like to eat the old hairy '''pie'''. Women, too, or so I've heard.}}
+
+=====Derived terms=====
+{{der3|en|apple pie|blueberry pie|cherry pie|cottage pie|cream pie|cutie pie|easy as pie|have one's fingers in many pies|humble pie|meat pie|mince pie|mud pie|party pie|pecan pie|pie bird|pie chart|pie chimney|pie-eater|pie-eyed|pie-faced|pie floater|pie funnel|piehole|pieing|pie in the sky|piemaker|piet|pie vent|pie whistle|pork pie|pot pie|shepherd's pie|steak and kidney pie|sweet as pie|who ate all the pies}}
+
+=====Translations=====
+{{trans-top|type of pastry}}
+* Afrikaans: {{t|af|pastei}}
+* Albanian: {{t+|sq|byrek}}
+* Arabic: {{t|ar|فَطِيرَة|f}}
+* Armenian: {{t+|hy|կարկանդակ}}
+* Aromanian: {{t|rup|plãtsintã|f}}
+* Azerbaijani: {{t|az|piroq}}
+* Bashkir: {{t|ba|бәлеш|sc=Cyrl}}
+* Belarusian: {{t|be|піро́г|m}}
+* Bengali: {{t|bn|পাই}}
+* Bulgarian: {{t+|bg|пиро́г|m}}
+* Catalan: {{t+|ca|pastís|m}}
+* Chinese:
+*: Cantonese: {{t|yue|批|tr=pai1|sc=Hani}}
+*: Mandarin: {{t+|cmn|餡餅|sc=Hani}}, {{t+|cmn|馅饼|tr=xiànbǐng|sc=Hani}}, {{t+|cmn|排|tr=pái|sc=Hani}}, {{t+|cmn|派|tr=pài|sc=Hani}}
+* Cornish: {{t|kw|hogen}}, {{qualifier|dialectal}} {{t|kw|hoggan}}
+* Czech: {{t+|cs|koláč|m}}
+* Danish: {{t|da|tærte|c}}
+* Dutch: {{t+|nl|taart|f}}, {{t+|nl|pastei|f}}
+* Esperanto: {{t|eo|torto}}
+* Estonian: {{t+|et|pirukas}}
+* Finnish: {{t+|fi|piirakka}}, {{t+|fi|piiras}}, {{t+|fi|torttu}}
+* French: {{t+|fr|tarte|f}}
+* Galician: {{t+|gl|torta|f}}
+* German: {{t+|de|Torte|f}}
+* Greek: {{t+|el|πίτα|f}}
+* Hebrew: {{t+|he|פַּאי|m|tr=pái}}, {{t+|he|תַּמְלִיא|m|tr=tamlí}} {{qualifier|the academy-sanctioned word, but not often used}}
+* Hungarian: {{t+|hu|pite}}
+* Icelandic: {{t+|is|baka|f}}
+* Ido: {{t+|io|tarto}}
+* Indonesian: {{t+|id|kue pai}}
+* Irish: {{t|ga|pióg|f}}
+* Italian: {{t+|it|torta|f}}, {{t+|it|crostata|f}}
+* Japanese: {{t+|ja|パイ|tr=pai}}
+* Kalmyk: {{t|xal|бөрг|sc=Cyrl}}
+* Kazakh: {{t|kk|бәліш|sc=Cyrl}}, {{t|kk|пирог|sc=Cyrl}}
+* Korean: {{t+|ko|파이}}
+{{trans-mid}}
+* Kyrgyz: {{t+|ky|пирог|sc=Cyrl}}
+* Lao: {{t-needed|lo}}
+* Latin: {{t|la|crustum}}
+* Latvian: {{t+|lv|pīrāgs|m}}
+* Lithuanian: {{t|lt|pyragas|m}}
+* Macedonian: {{t|mk|пи́та|f}}, {{t|mk|ко́мад|m}}
+* Malay: {{t|ms|pai}}
+* Maltese: {{t|mt|torta|f}}
+* Mongolian: {{t+|mn|бялуу}}
+* Navajo: {{t|nv|biiʼ sitłéʼé}}, {{t|nv|masdéél}}
+* Norwegian:
+*: Bokmål: {{t+|nb|pai|m}}
+*: Nynorsk: {{t+|nn|pai|m}}
+* Persian: {{t+|fa|پای|tr=pây}}
+* Polish: {{t+|pl|ciasto|n}}
+* Portuguese: {{t+|pt|torta|f}}
+* Romanian: {{t+|ro|plăcintă|f}}
+* Russian: {{t+|ru|пиро́г|m}}, {{qualifier|small, Russian style}} {{t+|ru|пирожо́к|m}}, {{t+|ru|беля́ш|m|sc=Cyrl}}
+* Scottish Gaelic: {{t|gd|paidh}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|пита|f}}
+*: Roman: {{t+|sh|pita|f}}
+* Slovak: {{t+|sk|koláč|m}}, {{t|sk|piroh|m}}
+* Slovene: {{t+|sl|pita|f}}
+* Spanish: {{t+|es|pastel|m}}, {{t+|es|pay|m}}, {{t+|es|tarta|f}}
+* Swedish: {{t+|sv|paj|c}}
+* Tajik: {{t|tg|пирог}}, {{t|tg|санбӯса}}
+* Taos: {{t|twf|pòstaléna}}
+* Tatar: {{t+|tt|бәлеш}}
+* Thai: {{t+|th|พาย}}
+* Turkish: {{t+|tr|turta}}
+* Ukrainian: {{t|uk|пирі́г|m}}
+* Uzbek: {{t+|uz|pirog}}
+* Welsh: {{t|cy|pastai}}
+* West Frisian: {{t|fy|taart|c}}
+* Yiddish: {{t|yi|פּיראָג|m}}
+{{trans-bottom}}
+
+{{trans-top|nonpastry dish resembling a pie}}
+* Dutch: {{t+|nl|taart|f}}, {{t+|nl|pastei|f}}
+* Finnish: {{t+|fi|piirakka}}, {{t+|fi|piiras}}, {{t+|fi|pasteija}}
+* French: {{t+|fr|tourte|f}}
+* Greek: {{t+|el|πίτα|f}}
+{{trans-mid}}
+* Irish: {{t|ga|pióg|f}}
+* Italian: {{t+|it|pasticcio|m}}
+* Swedish: {{t+|sv|paj|c}}
+{{trans-bottom}}
+
+{{trans-see|pizza}}
+
+{{trans-top|whole of wealth or resource}}
+* Finnish: {{t+|fi|kakku}}
+* French: {{t+|fr|gâteau|m}}
+{{trans-mid}}
+* Greek: {{t+|el|πίτα|f}}
+{{trans-bottom}}
+
+{{trans-top|printing: disorderly mess of spilt type}}
+* Italian: {{t+|it|pasticcio|m}}, {{t+|it|confusione|f}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|cricket: especially badly bowled ball}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|pejorative: gluttonous person}}
+* Finnish: {{t|fi|rohmu}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-see|pie chart}}
+
+{{trans-top|slang: vulva}}
+* Finnish: {{t+|fi|ripsipiirakka}}, {{t+|fi|pipari}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Afrikaans: {{t-check|af|tert}}
+* Esperanto: {{t-check|eo|torto}}
+{{trans-mid}}
+* Romanian: {{t+check|ro|plăcintă|f}}
+{{trans-bottom}}
+
+=====See also=====
+* {{l|en|pastie}}
+* {{l|en|pasty}}
+
+====Verb====
+{{en-verb|d}}
+
+# {{lb|en|transitive}} To hit in the face with a pie, either for comic effect or as a means of protest (see also [[pieing]]).
+#: {{ux|en|I'd like to see someone '''pie''' the chairman of the board.}}
+# {{lb|en|transitive}} To go around (a corner) in a guarded manner.
+# {{lb|en|transitive}} (of printing types) To reduce to confusion; to jumble.
+#* {{quote-book|en|year=1943|author=Esther Forbes Hoskins|title=[[wikipedia:Johnny Tremain|Johnny Tremain]]|passage=The door of the [printing] shop was shattered. He went in. The presses were broken. The type pied.}}
+
+=====Translations=====
+{{trans-top|to hit in the face with a pie}}
+* Finnish: {{t+|fi|kakuttaa}}
+* French: {{t+|fr|entarter}}
+{{trans-mid}}
+* German: {{t|de|torten}}
+* Swedish: {{t+|sv|tårta}}
+{{trans-bottom}}
+
+{{trans-top|to go around (a corner) in a guarded manner}}
+{{trans-mid}}
+{{trans-bottom}}
+
+===Etymology 2===
+From {{inh|en|enm|pye}}, from {{der|en|fro|pie}}, from {{der|en|la|pīca}}, feminine of {{m|la|pīcus||woodpecker}}, from {{der|en|ine-pro|*(s)peyk-||woodpecker; magpie}}. Cognate with {{m|en|speight}}.
+
+====Noun====
+{{en-noun}}
+
+# {{senseid|en|magpie}} {{lb|en|obsolete}} [[magpie|Magpie]].
+
+=====Derived terms=====
+* {{l|en|piebald}}
+
+===Etymology 3===
+Borrowed from {{bor|en|hi|पाई||quarter}}, from {{der|en|sa|पादिका}}.
+
+====Noun====
+{{en-noun|pie|pies}}
+
+# {{lb|en|historical}} The smallest unit of currency in South Asia, equivalent to 1/192 of a [[rupee]] or 1/12 of an [[anna]].
+#* {{quote-book|en|year=1888|author=Rudyard Kipling|chapter=The Strange Ride of Morrowbie Jukes|title=The Phantom ’Rickshaw and Other Tales|publisher=Folio Society|year_published=2005|page=117|passage=I gave him all the money in my possession, Rs.9.8.5. – nine rupees, eight annas, and five '''pie''' – for I always keep small change as ''bakshish'' when I am in camp.}}
+
+=====Translations=====
+{{trans-top|unit of currency}}
+* Hindi: {{t+|hi|पाई|m|sc=Deva}}
+{{trans-mid}}
+{{trans-bottom}}
+
+===Anagrams===
+* {{anagrams|en|a=eip|EIP|Epi|IEP|P.E.I.|PEI|Pei|epi|epi-|ipe|ipé}}
+
+{{catlangname|en|terms with unknown etymologies}}
+{{topics|en|Currency|Desserts|Foods|Pies|Corvids}}
+
+----
+
+==Asturian==
+
+===Etymology===
+From {{inh|ast|la|pes|pes, pedem}}.
+
+===Noun===
+{{ast-noun|m}}
+
+# [[foot]]
+
+====Related terms====
+* {{l|ast|peón}}
+
+{{topics|ast|Anatomy}}
+
+----
+
+==Esperanto==
+
+===Adverb===
+{{eo-head}}
+
+# [[piously]]
+#* {{quote-book
+|eo
+|year=1922
+|title=Nuntempaj Rakontoj
+|author=Ivan H. Krestanoff (tr.)
+|by=G. P. Stamatov
+|chapter=En la tombejo
+|publisher=Ferdinand Hirt &amp; Sohn
+|location=Leipzig
+|url=http://www.gutenberg.org/files/23670/23670-h/23670-h.htm#nr2
+|page=15
+|passage=Nadja '''pie''' stariĝis apud la kruco.
+|translation=Nadia '''piously''' stood next to the cross.}}
+
+----
+
+==French==
+
+===Etymology===
+From {{inh|fr|fro|pie}}, from {{inh|fr|la|pica}}, feminine of {{m|la|picus||woodpecker}}.
+
+===Pronunciation===
+* {{fr-IPA}}
+* {{audio|fr|Fr-pie.ogg|audio}}
+
+===Noun===
+{{fr-noun|f}}
+
+# [[magpie]]
+
+====Derived terms====
+* {{l|fr|fromage à la pie}}
+
+===Further reading===
+* {{R:TLFi}}
+
+===Anagrams===
+* {{l|fr|épi}}, {{l|fr|I.-P.-E.}}, {{l|fr|IPE}}, {{l|fr|ipé}}
+
+[[Category:fr:Birds]]
+
+----
+
+==Italian==
+
+===Adjective===
+{{head|it|adjective form|g=f-p}}
+
+# {{it-adj form of|pio|f|pl}}
+
+===Anagrams===
+* {{anagrams|it|pei}}
+
+----
+
+==Latin==
+
+===Etymology 1===
+
+====Adverb====
+{{la-adv|piē}}
+
+# [[piously]], [[devoutly]]
+# [[dutifully]], [[loyally]]
+
+===Etymology 2===
+
+====Adjective====
+{{la-adj-form|pie}}
+
+# {{inflection of|la|pius||voc|m|s}}
+
+===References===
+* {{R:L&amp;S}}
+* {{R:Elementary Lewis}}
+* {{R:Gaffiot}}
+* {{R:M&amp;A}}
+
+----
+
+==Latvian==
+
+===Preposition===
+{{lv-prep|gen}}
+
+# [[at]]
+#: {{ux|lv|es biju '''pie''' tēva|t=I was '''at''' my father's|inline=1}}
+# [[on]]
+#: {{ux|lv|māja '''pie''' jūras|t=a house '''on''' the sea|inline=1}}
+# [[to]]
+#: {{ux|lv|braukšu '''pie''' tevis|t=I will go '''to''' your place|inline=1}}
+
+----
+
+==Mandarin==
+
+===Romanization===
+{{head|cmn|pinyin}}
+
+# {{nonstandard spelling of|cmn|sc=Latn|piē}}
+# {{nonstandard spelling of|cmn|sc=Latn|piě}}
+# {{nonstandard spelling of|cmn|sc=Latn|piè}}
+
+====Usage notes====
+* {{cmn-toneless-note}}
+
+----
+
+==Middle English==
+
+===Etymology 1===
+From {{bor|enm|ML.|pīca}}.
+
+====Noun====
+{{head|enm|noun}}
+
+# {{alternative form of|enm|pye|id=pie|t=pie}}
+
+===Etymology 2===
+From {{bor|enm|fro|pie}}.
+
+====Noun====
+{{head|enm|noun}}
+
+# {{alternative form of|enm|pye|id=magpie|t=magpie}}
+
+----
+
+==Norman==
+
+===Etymology===
+From {{inh|nrf|fro|pie}}, from {{inh|nrf|la|pica}}, feminine of {{m|la|picus||woodpecker}}.
+
+===Pronunciation===
+* {{audio|nrf|Jer-pie.ogg|Audio (Jersey)}}
+
+===Noun===
+{{nrf-noun|f}}
+
+# {{lb|nrf|Jersey}} female [[magpie]]
+
+====Synonyms====
+* {{l|nrf|mèrgot}}
+
+====Coordinate terms====
+{{checksense|nrf}}
+* {{sense|sex}} {{l|nrf|piêté}}
+
+{{topics|nrf|Corvids}}
+
+----
+
+==Old French==
+
+===Etymology===
+From {{inh|fro|la|pīca}}.
+
+===Noun===
+{{fro-noun|f}}
+
+# [[magpie]]
+
+====Descendants====
+* {{desc|en|pie|bor=1}}
+* {{desc|fr|pie}}
+* {{desc|nrf|pie}} {{qualifier|Jersey}}
+
+----
+
+==Portuguese==
+
+===Verb===
+{{head|pt|verb form}}
+
+# {{pt-verb-form-of|piar}}
+
+----
+
+==Spanish==
+[[File:Grown_man's_feet_2.jpg|thumb|{{lang|es|Los pies de un hombre}}]]
+
+===Pronunciation===
+* {{es-IPA}}
+
+===Etymology 1===
+From {{inh|es|la|pēs}}, from {{inh|es|ine-pro|*pṓds}}.
+
+====Noun====
+{{es-noun|m}}
+
+# [[foot]] {{qualifier|of a person}}
+#: {{syn|es|pata|q1=of an animal}}
+# {{lb|es|poetry}} [[foot]]
+
+=====Alternative forms=====
+* {{l|es|pié}} {{q|obsolete}}
+
+=====Derived terms=====
+{{der4|es
+|a sus pies
+|a pie
+|al pie del cañón
+|al pie de la letra
+|al pie de la palabra
+|a pies juntillas
+|antepié
+|apoyapiés
+|buscarle tres pies al gato
+|[[con buen pie]]/[[con el pie derecho]]
+|[[con mal pie]]/[[con el pie izquierdo]]
+|con los pies por delante
+|con pies de plomo
+|de los pies a la cabeza
+|dar pie
+|en pie de guerra
+|en pie de igualdad
+|hacer pie
+|levantarse con el pie izquierdo
+|meter el pie
+|nacer de pie
+|no comerse un rosco
+|no dar pie con bola
+|no tener pies ni cabeza
+|parar los pies a alguien
+|pie de página
+|pie de foto
+|pie cavo
+|pie de atleta
+|pie de imprenta
+|pie plano
+|pie quebrado
+|poner los pies en un lugar
+|poner los pies en polvorosa
+|por pies
+|saber de qué pie cojea alguien
+|sacar los pies del plato
+|sin pies ni cabeza
+}}
+
+=====Related terms=====
+{{rel3
+|es|pedestre
+|peón
+|pedal
+}}
+
+===Etymology 2===
+
+====Verb====
+{{head|es|verb form}}
+
+# {{es-verb form of|ending=ar|mood=indicative|tense=preterite|pers=1|number=singular|piar}}
+
+=====Alternative forms=====
+* {{l|es|píe}}
+
+===Etymology 3===
+Borrowed from {{bor|es|en|pie}}.
+
+====Pronunciation====
+{{IPA|es|/paɪ/}}
+
+====Noun====
+{{es-noun|m}}
+
+# {{lb|es|Central America|South America}} [[pie#English|pie]]
+
+=====Usage notes=====
+Spanish-speaking Central and South Americans use the English loanword ''pie'' to refer to certain kinds of pies but not all kinds of pies. Some types of pies are referred to as {{m|es|tarta}}. It very much depends on the region for which term to use. ''Tarta'' is much more frequent, however.
+
+=====Alternative forms=====
+* {{alter|es|pay||Mexico}}
+
+=====Derived terms=====
+* {{l|es|pie de parchita||passionfruit cheesecake}} {{qual|especially in ''Venezuela''}}
+* {{l|es|pie de limón||lemon pie}} {{qual|Central and South America}}
+
+===Further reading===
+* {{R:DRAE}}
+
+[[Category:Spanish three-letter words]]
+{{topics|es|Anatomy|Units of measure}}
