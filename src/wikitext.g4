@@ -4,15 +4,16 @@ grammar wikitext;
  Grammar
  */
 
-page: EOL? ((wikitem | bullet_line) EOL? )+ EOF;
+page: EOL? (wikitem EOL? )+ EOF;
 
 wikitem:
-	  wikitem wikitem
-	| title 
-	| template
-	| link
-	| text
-	;
+      wikitem wikitem
+    | title
+    | template
+    | link
+    | text
+    | bullet_line
+    ;
 
 title: title2 | title3 | title4 | title5;
 title5: '=====' text '=====';
@@ -25,8 +26,7 @@ link: '[[' parameter ('|' parameter)* ']]';
 
 parameter: wikitem?; // parameter can be empty, I.E. {{a|}}
 
-bullet: ('*'|'#'|'#:'|'#*');
-bullet_line: WS? EOL WS? bullet WS? wikitem;
+bullet_line: WS? bullet=('*'|'#'|'#:'|'#*') WS? wikitem;
 
 text: (CHAR | WS)+;
 
