@@ -17,7 +17,7 @@ module.exports = function (buildName) {
 	this.javaBuild = spawn(`antlr -Dlanguage=Java -o ${javaPath} ${grammar} && cd ${javaPath} && javac *.java`, { cwd: srcPath, shell: true });
 
 	const onError = error => {
-		console.error(`Error on build ${buildName}: ${error.toString()}\n`.red);
+		console.error(`Error on build ${buildName}: ${error.toString()}\n`);
 		this.jsBuild.kill('SIGUSR1'); // means the build had an error
 		this.javaBuild.kill('SIGUSR1');
 	};

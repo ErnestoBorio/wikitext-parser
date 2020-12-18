@@ -20,6 +20,16 @@ link: '[[' template_name += text ('|' parameter?)* ']]';
 
 parameter: text | (text | link | template)+;
 
+template:
+	'{{' template_name += text ('|' parameter?)* '}}';
+link:
+	'[[' template_name += text ('|' parameter?)* ']]';
+
+parameter: 
+	text
+	| (text | link | template)+
+	;
+
 text: CHAR+;
 
 /**
