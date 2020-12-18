@@ -11,7 +11,8 @@
 		"build": "node build/build.js",
 		"watch": "node build/watch.js",
 		"test-gui": "cd ./java && grun wikitext page -gui ../data/pie.txt",
-		"test-text": "cd ./java && grun wikitext page -tree ../data/pie.txt"
+		"test-text": "cd ./java && grun wikitext page -tree ../data/pie.txt",
+		"testito": "cd ./java && grun wikitext page -gui ../data/mini.txt"
 	},
 	"author": "",
 	"license": "ISC"
