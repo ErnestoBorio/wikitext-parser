@@ -1,38 +1,30 @@
+// Actions defined for target language Javascript
 grammar wikitext;
 
 /**
  Grammar
  */
 
-page: EOL? (wikitem EOL? )+ EOF;
+page: wikitem+;
 
-wikitem:
-      wikitem wikitem
-    | title
-    | template
-    | link
-    | text
-    | bullet_line
-    ;
+wikitem: title | template | link | text;
 
-title: title2 | title3 | title4 | title5;
-title5: '=====' text '=====';
-title4: '====' text '====';
-title3: '===' text '===';
-title2: '==' text '==';
+title:
+	  '==' text '==' {localctx.titleLevel = 0; }
+	| '===' text '===' {localctx.titleLevel = 1; }
+	| '====' text '====' {localctx.titleLevel = 2; }
+	| '=====' text '=====' {localctx.titleLevel = 3; };
 
-template: '{{' parameter ('|' parameter)* '}}';
-link: '[[' parameter ('|' parameter)* ']]';
+template: '{{' template_name += text ('|' parameter?)* '}}';
+link: '[[' template_name += text ('|' parameter?)* ']]';
 
-parameter: wikitem?; // parameter can be empty, I.E. {{a|}}
+parameter: text | (text | link | template)+;
 
-bullet_line: WS? bullet=('*'|'#'|'#:'|'#*') WS? wikitem;
-
-text: (CHAR | WS)+;
+text: CHAR+;
 
 /**
  Lexicon
  */
-EOL: [\f\r\n]+;
-CHAR: ~[ \t\f\r\n];
-WS: [ \t]+;
+
+EOL: [\f\r\n]+ -> skip;
+CHAR: .;
