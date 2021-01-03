@@ -1,3 +1,4 @@
+// Actions defined for target language Javascript
 grammar wikitext;
 
 /**
@@ -8,21 +9,16 @@ page: wikitem+;
 
 wikitem: title | template | link | text;
 
-title: title2 | title3 | title4 | title5;
-title5: '=====' text '=====';
-title4: '====' text '====';
-title3: '===' text '===';
-title2: '==' text '==';
+title:
+	  '==' text '==' {localctx.titleLevel = 0; }
+	| '===' text '===' {localctx.titleLevel = 1; }
+	| '====' text '====' {localctx.titleLevel = 2; }
+	| '=====' text '=====' {localctx.titleLevel = 3; };
 
-template:
-	'{{' template_name += text ('|' parameter?)* '}}';
-link:
-	'[[' template_name += text ('|' parameter?)* ']]';
+template: '{{' template_name += text ('|' parameter?)* '}}';
+link: '[[' template_name += text ('|' parameter?)* ']]';
 
-parameter: 
-	text
-	| (text | link | template)+
-	;
+parameter: text | (text | link | template)+;
 
 text: CHAR+;
 
