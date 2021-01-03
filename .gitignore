@@ -1,6 +1,5 @@
 **/node_modules
 /src/.antlr
-/src/antlr
 /java
 /data/**
 !/data/pie.txt
