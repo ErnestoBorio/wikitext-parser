@@ -15,6 +15,8 @@ title:
 	| '====' text '====' {localctx.titleLevel = 2; }
 	| '=====' text '=====' {localctx.titleLevel = 3; };
 
+long_title: '======' text '======'; // catch rule for eventual 6+ equals title
+
 template: '{{' template_name += text ('|' parameter?)* '}}';
 link: '[[' template_name += text ('|' parameter?)* ']]';
 

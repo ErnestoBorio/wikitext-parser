@@ -32,6 +32,15 @@ export default class wikitextListener extends antlr4.tree.ParseTreeListener {
 	}
 
 
+	// Enter a parse tree produced by wikitextParser#long_title.
+	enterLong_title(ctx) {
+	}
+
+	// Exit a parse tree produced by wikitextParser#long_title.
+	exitLong_title(ctx) {
+	}
+
+
 	// Enter a parse tree produced by wikitextParser#template.
 	enterTemplate(ctx) {
 	}

@@ -8,6 +8,7 @@
 		"jsonfile": "^6.1.0"
 	},
 	"scripts": {
+		"parse": "node src/WiktParser.js ./data/pie.txt",
 		"build": "node build/build.js",
 		"watch": "node build/watch.js",
 		"test-gui": "cd ./java && grun wikitext page -gui ../data/pie.txt",
